@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 67f6193c5ef4ba244a2370ac2e577987
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CARDNL_F:crd_eye
+    100004: CARDNL_F:crdf_body
+    100006: joint1
+    100008: joint10
+    100010: joint11
+    100012: joint12
+    100014: joint13
+    100016: joint14
+    100018: joint15
+    100020: joint15 1
+    100022: joint16
+    100024: joint2
+    100026: joint20
+    100028: joint3
+    100030: joint3 1
+    100032: joint4
+    100034: joint4 1
+    100036: joint5
+    100038: joint6
+    100040: joint7
+    100042: joint8
+    100044: joint9
+    100046: polySurface1
+    100048: polySurface2
+    100050: polySurface3
+    100052: polySurface4
+    100054: polySurface5
+    100056: pTorus1
+    100058: pTorus2
+    100060: pTorus3
+    100062: pTorus4
+    100064: transform1
+    100066: transform10
+    100068: transform2
+    100070: transform3
+    100072: transform4
+    100074: transform5
+    100076: transform6
+    100078: transform7
+    100080: transform8
+    100082: transform9
+    400000: //RootNode
+    400002: CARDNL_F:crd_eye
+    400004: CARDNL_F:crdf_body
+    400006: joint1
+    400008: joint10
+    400010: joint11
+    400012: joint12
+    400014: joint13
+    400016: joint14
+    400018: joint15
+    400020: joint15 1
+    400022: joint16
+    400024: joint2
+    400026: joint20
+    400028: joint3
+    400030: joint3 1
+    400032: joint4
+    400034: joint4 1
+    400036: joint5
+    400038: joint6
+    400040: joint7
+    400042: joint8
+    400044: joint9
+    400046: polySurface1
+    400048: polySurface2
+    400050: polySurface3
+    400052: polySurface4
+    400054: polySurface5
+    400056: pTorus1
+    400058: pTorus2
+    400060: pTorus3
+    400062: pTorus4
+    400064: transform1
+    400066: transform10
+    400068: transform2
+    400070: transform3
+    400072: transform4
+    400074: transform5
+    400076: transform6
+    400078: transform7
+    400080: transform8
+    400082: transform9
+    2300000: CARDNL_F:crd_eye
+    2300002: CARDNL_F:crdf_body
+    2300004: pTorus2
+    2300006: pTorus3
+    2300008: pTorus4
+    2300010: transform1
+    2300012: transform10
+    2300014: transform2
+    2300016: transform3
+    2300018: transform4
+    2300020: transform5
+    2300022: transform6
+    2300024: transform7
+    2300026: transform8
+    2300028: transform9
+    3300000: CARDNL_F:crd_eye
+    3300002: CARDNL_F:crdf_body
+    3300004: pTorus2
+    3300006: pTorus3
+    3300008: pTorus4
+    3300010: transform1
+    3300012: transform10
+    3300014: transform2
+    3300016: transform3
+    3300018: transform4
+    3300020: transform5
+    3300022: transform6
+    3300024: transform7
+    3300026: transform8
+    3300028: transform9
+    4300000: CARDNL_F:crdf_body
+    4300002: transform8
+    4300004: transform4
+    4300006: transform1
+    4300008: CARDNL_F:crd_eye
+    4300010: transform7
+    4300012: transform5
+    4300014: pTorus2
+    4300016: transform6
+    4300018: pTorus3
+    4300020: transform3
+    4300022: pTorus4
+    4300024: transform2
+    4300026: transform10
+    4300028: transform9
+    4300030: polySurface5
+    7400000: walking
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walking
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CARDNL_F:crd_eye
+        weight: 1
+      - path: CARDNL_F:crd_eye/transform7
+        weight: 1
+      - path: CARDNL_F:crdf_body
+        weight: 1
+      - path: CARDNL_F:crdf_body/polySurface1
+        weight: 1
+      - path: CARDNL_F:crdf_body/polySurface1/transform8
+        weight: 1
+      - path: CARDNL_F:crdf_body/polySurface2
+        weight: 1
+      - path: CARDNL_F:crdf_body/polySurface2/transform4
+        weight: 1
+      - path: CARDNL_F:crdf_body/transform1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint5
+        weight: 1
+      - path: joint1/joint5/joint6
+        weight: 1
+      - path: joint1/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint16
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint16/joint15
+          1
+        weight: 1
+      - path: joint1/joint20
+        weight: 1
+      - path: joint1/joint20/joint3 1
+        weight: 1
+      - path: joint1/joint20/joint3 1/joint4 1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform10
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform9
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: pTorus1
+        weight: 1
+      - path: pTorus1/transform5
+        weight: 1
+      - path: pTorus2
+        weight: 1
+      - path: pTorus2/transform6
+        weight: 1
+      - path: pTorus3
+        weight: 1
+      - path: pTorus3/transform3
+        weight: 1
+      - path: pTorus4
+        weight: 1
+      - path: pTorus4/transform2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
